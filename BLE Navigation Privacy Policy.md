@@ -17,6 +17,7 @@ The list of permissions required by the BLE Navigation application.
 |  `android.permission.ACCESS_FINE_LOCATION`  | On Android 11 and lower, a Bluetooth scan could potentially be used to gather information about the location of the user. |
 | `android.permission.ACCESS_COARSE_LOCATION` | On Android 9 and lower, use ACCESS_COARSE_LOCATION permission instead of the ACCESS_FINE_LOCATION permission.             |
 |        `android.permission.VIBRATE`         | Enables the app to vibrate device to notify user.                                                                         |
+|        `android.permission.INTERNET`         | Enables the app to fetch latest data for the beacons.                                                                         |
 
 
  <hr style="border:1px solid gray">
