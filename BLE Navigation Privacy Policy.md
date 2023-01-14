@@ -1,10 +1,10 @@
 ## Privacy policy
 
-I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information.
+I the developer of the BLE Navigation application hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information.
 
 ### Explanation of permissions requested in the app
 
-The list of permissions required by the app can be found in the `AndroidManifest.xml` file.
+The list of permissions required by the BLE Navigation application.
 
 <br/>
 
